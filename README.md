@@ -19,8 +19,8 @@ Link: https://www.figma.com/proto/L4kuDTbK5ZhqoDn4NSeRAd/Sheridan-Course-App-Ver
 Link: https://youtube.com/shorts/BSK4wgkEWdQ?feature=share
 
 ## Desirable Functionalities
-Weather Forecast and Alert. Local weather based on the campus location, and severe weather condition alert. This will help students prepare for the trip.
-Virtual assistant support. Talk to support anytime on the go.
-Rating system. Students can provide feedback conveniently on the mobile to courses and instructors, or the app.
-Showcase room. Share the experience or your achievements on the campus social network.
-Campus map. Provide navigation to the target course. 
+1. Weather Forecast and Alert. Local weather based on the campus location, and severe weather condition alert. This will help students prepare for the trip.
+2. Virtual assistant support. Talk to support anytime on the go.
+3. Rating system. Students can provide feedback conveniently on the mobile to courses and instructors, or the app.
+4. Showcase room. Share the experience or your achievements on the campus social network.
+5. Campus map. Provide navigation to the target course. 
