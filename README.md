@@ -18,6 +18,7 @@ The Sheridan Cousre App is a student-foucesd mobile application designed to enha
 
 ## Figma Prototype 
 Link: https://www.figma.com/proto/L4kuDTbK5ZhqoDn4NSeRAd/Sheridan-Course-App-Ver.2?node-id=0-1&t=OKu6CVhndiS8KgEo-1
+
 Link: https://www.figma.com/proto/tZl4ZI8rKEkMLzZcAuu3fR/Sheridan-Course-App-Ver.3?node-id=4001-123&p=f&t=s8Ii8Vx761xTCwRQ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4001%3A123
 
 ## Test Video
