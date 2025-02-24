@@ -5,15 +5,20 @@ Sheridan Course App Design
 The Sheridan Cousre App is a student-foucesd mobile application designed to enhance course management and communication. It provides the functionality for students to view current term courses, access course content, tack assignments, and engage in course group chats with peers. With a clean and straightforward UI and intuitive navigation, the app ensures seemless interaction.
 
 ## Screenshots
-![Course List](https://github.com/user-attachments/assets/e3bbea68-6c73-4a60-bf4c-00a3a6b33da0)
-![Individual Course](https://github.com/user-attachments/assets/1fb12406-b37a-4ef8-9d9d-c1bf93abd794)
-![Assignment](https://github.com/user-attachments/assets/216b0c21-4157-4276-8689-c9a6660399ea)
-![Chat List](https://github.com/user-attachments/assets/246efc60-9ba2-4131-b0df-3cd546962722)
-![Group Chat](https://github.com/user-attachments/assets/5de07c11-88e5-4dc0-8ce2-989355d8fd8f)
-![Profile](https://github.com/user-attachments/assets/4a45eeee-dda2-4540-8ed0-b69fee05e9d1)
+
+![Login Page](https://github.com/user-attachments/assets/508c8b25-6e4f-4fa3-b586-3c2414dbd1ac)
+![Course List](https://github.com/user-attachments/assets/ee53744b-2146-4bda-8e5d-8dfeaef7e552)
+![Course Content](https://github.com/user-attachments/assets/28aa6cdb-db31-4948-a5fe-1f7a8d0ca923)
+![Announcement](https://github.com/user-attachments/assets/eba96452-4ee4-4200-8efc-d1f2fb3907e7)
+![Course Assignment](https://github.com/user-attachments/assets/33a5be35-e843-4721-8d1a-55b2e9e436e3)
+![Assignment](https://github.com/user-attachments/assets/73e75135-3d9b-4a9c-bf02-2aa26801d875)
+![Chat Groups](https://github.com/user-attachments/assets/a2122eea-3b1a-4e45-b69f-4caf11b86f69)
+![Chat Room](https://github.com/user-attachments/assets/fc82f2f2-5301-4726-b59a-74396a5a08ea)
+![Personal Setting](https://github.com/user-attachments/assets/154f6a47-ab1c-46d1-a1b3-ec220afed93e)
 
 ## Figma Prototype 
 Link: https://www.figma.com/proto/L4kuDTbK5ZhqoDn4NSeRAd/Sheridan-Course-App-Ver.2?node-id=0-1&t=OKu6CVhndiS8KgEo-1
+Link: https://www.figma.com/proto/tZl4ZI8rKEkMLzZcAuu3fR/Sheridan-Course-App-Ver.3?node-id=4001-123&p=f&t=s8Ii8Vx761xTCwRQ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4001%3A123
 
 ## Test Video
 Link: https://youtube.com/shorts/BSK4wgkEWdQ?feature=share
