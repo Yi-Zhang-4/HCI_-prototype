@@ -21,6 +21,8 @@ Link: https://www.figma.com/proto/L4kuDTbK5ZhqoDn4NSeRAd/Sheridan-Course-App-Ver
 
 Link: https://www.figma.com/proto/tZl4ZI8rKEkMLzZcAuu3fR/Sheridan-Course-App-Ver.3?node-id=4001-123&p=f&t=s8Ii8Vx761xTCwRQ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4001%3A123
 
+Revised Prototype Link: https://www.figma.com/proto/ARCtVujD1zMySdHDUrkUFv/Sheridan-Course-App-Ver.3-(Revised)?node-id=4001-123&p=f&t=0XNhH0pClP5xpM9U-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4001%3A123
+
 ## Test Video
 Link: https://youtube.com/shorts/BSK4wgkEWdQ?feature=share
 
